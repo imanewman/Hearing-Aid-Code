@@ -1,0 +1,11 @@
+dsPIC (R) DSC Noise Suppression Library v6.0
+
+Notes:
+
+1. This is a major release as this library now supports the new dsPIC33E family of devices. 
+
+2. There are no differences in the library functionality and API from the previous release. 
+However, the library archive names have been renamed to clearly indicate which device
+family it is intended for. Please refer to the dsPIC DSC Noise Suppression Library 
+User's Guide on the library website for more details.
+ 
